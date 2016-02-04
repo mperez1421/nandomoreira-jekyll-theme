@@ -7,17 +7,17 @@ comments: true
 paginate_path: "/page/:num"
 
 baseurl: "/nandomoreira-jekyll-theme" # change to empty string ""
-domain_name: nandomoreira.me
+domain_name: home
 google_analytics: UA-52446115-1
 
 source:      source
 destination: _site
-
+something : something
 # cover: /assets/images/header-cover.png
 
 # site title, description, meta_description, meta_keywords
 # Details for the RSS feed generator
-name: BB8
+name: Pilgrim
 title: My Blog
 description: "Desenvolvedor Front-end/Wordpress, Design Responsivo, HTML5, CSS3 e JavaScript"
 meta_description: "Desenvolvedor Front-end/Wordpress, Design Responsivo, HTML5, CSS3 e JavaScript"
@@ -28,7 +28,7 @@ repo: https://github.com/nandomoreirame/nandomoreira-jekyll-theme
 disqus_shortname: "fernandomoreira"
 rss_path: source/
 author:
-  name      : BB8
+  name      : Ms Pilgrim
   image     : /assets/images/author.jpg
   email     : bb8@swars.com
   url       : http://bb8.me
